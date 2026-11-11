@@ -1,0 +1,11 @@
+__pycache__/
+.DS_Store
+*.pyc
+
+# never commit faces or outputs
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.heic
+*.zip
